@@ -1,7 +1,6 @@
 - 👋 Hi, I’m **Ivan**
 - 👀 I’m interested in **Data & AI**
 - 🌱 I’m currently learning **Data Engineering**
-- 😄 Pronouns: **he/him**
 - ⚡ Fun fact: TBD
 
 <!---
