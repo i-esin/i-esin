@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Ivan**
 - 👀 I’m interested in **Data & AI**
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I am a **Data Engineer Consultant** at **Orange Business**
 - ⚡ Fun fact: TBD
 
 <!---
